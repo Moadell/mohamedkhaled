@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name":"Mohamed Khaled",
+    "occupation":"Junior Computer Engineering Student",
+    "description":"", 
+    "image":"profilepic.jpg",
+    "bio":"A computer engineer who aims to solve at least one of the SDGs; A technology geek who used to be well-rounded about the computer vision field; A STEM student who uses his self-study skills to achieve all his desired goals.",
+    "contactmessage":"This part is not right funcationally yet you can contact me directly through email.",
+    "email": "Moh.ramadan@nu.edu.eg",
+    "phone": "+201110931793",
+    "address":{
+      "street":"",
+      "city":"Giza, Egypt.",
+      "state":"",
+      "zip": "12566"
+    },
+    "resumedownload":"https://drive.google.com/file/d/1wxUlKCr8kvWH9jkWgUGBY3muGei9Ud3z/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/Moh.Khaled.74",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mohamed-khaled-418474110/",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am always trying to improve my self and develop new skills",
+    "education":[
+      {
+        "school":"Nile University",
+        "degree":"Bachelor Degree in Computer Engineering",
+        "graduated":"2018 : 2023",
+        "description":"Full Scholarship"
+      },
+      {
+        "school":"STEM High School for Boys 6th of October",
+        "degree":"STEM",
+        "graduated":"2015 : 2018",
+        "description":"GPA: 4.0/4.0"
+      }
+    ],
+    "work":[
+      {
+        "company":"Nile University",
+        "title":"Junior Teaching Assistant",
+        "years":"Sep 2019 - Present",
+        "description":"Instructed and advised students in their projects. Moreover, Instructed students during weekly laboratories. In Engineering Design and Computer Programming courses."
+      },
+      {
+        "company":"Tachyons",
+        "title":"Founder and President",
+        "years":"May 2016 - Present",
+        "description":"Organized two major events named ATP (Astronomy, Technology, and Physics) at Nile University and Crossover to 2050 at Zewail City. Moreover, Published online courses to help students all over Egypt."
+      }
+    ],
+    "skills":[
+      {
+        "name":"MATLAB",
+        "level":"60%"
+      },
+      {
+        "name":"Android studio",
+        "level":"80%"
+      },
+      {
+        "name":"C++/Arduino C",
+        "level":"50%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"90%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"Dart with Flutter framework",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"50%"
+      },
+      {
+        "name":"Arduino C",
+        "level":"50%"
+      },
+      {
+        "name":"Qt C++ with Qt framework",
+        "level":"50%"
+      },
+      {
+        "name":"Adobe photoshop",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Excellia",
+        "category":"Collage body website created using Reactjs and firebase",
+        "image":"Excellia.png",
+        "url":"https://excellia-4c9b1.web.app"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      },
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
